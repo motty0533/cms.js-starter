@@ -6,12 +6,12 @@ var config = {
 
   // Mode 'GITHUB' for Github Pages, 'SERVER' for Self Hosted
   // Defaults to Server mode if not specified
-  mode: 'SERVER',
+  mode: 'GITHUB',
 
   // If Github mode is set, your Github username, repo name, 
   // and branch to get files from.
   github: {
-    username: 'yourusername',
+    username: 'motty0533',
     repo: 'yourrepo',
     branch: 'gh-pages',
     host: 'https://api.github.com',
